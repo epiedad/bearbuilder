@@ -1,0 +1,7 @@
+lib/
+bin/
+local/
+pip-selfcheck.json
+share/
+include/
+*.pyc
